@@ -44,6 +44,7 @@
     <li><code>backend.tf</code>: Contains the configuration for handing the tstate file.</li>
     <li><code>vpc_sub_rt.tf</code>: Contains the configuration VPC, Subnets, Route Tables.</li>
     <li><code>instances_ep.tf</code>: Contains the configuration Web Server & RDS.</li>
+    <li><code>jenkins.tf</code>: Contains script for creating IAM user for jenkins.</li>
   </ul>
 
   <h2>Additionally</h2>
