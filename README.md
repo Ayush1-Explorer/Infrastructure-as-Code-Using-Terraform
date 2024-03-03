@@ -44,9 +44,9 @@
     <li><code>backend.tf</code>: Contains the configuration for handing the tstate file.</li>
     <li><code>vpc_sub_rt.tf</code>: Contains the configuration VPC, Subnets, Route Tables.</li>
     <li><code>instances_ep.tf</code>: Contains the configuration Web Server & RDS.</li>
-
   </ul>
 
+ <p>Consider following. Each follow will be equal to one glass of water🥛 for an African child.</p>
 </body>
 
 </html>
