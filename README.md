@@ -39,8 +39,12 @@
   <ul>
     <li><code>variables.tf</code>: Defines input variables used in the Terraform configuration.</li>
     <li><code>terraform.tfvars</code>: Specifies the values for input variables (AWS credentials, region, CIDR blocks, etc.).</li>
-    <li><code>main.tf</code>: Contains the main Terraform configuration for provisioning AWS resources.</li>
+    <li><code>main.tf</code>: Contains the main Terraform configuration.</li>
     <li><code>outputs.tf</code>: Defines the outputs (e.g., resource IDs) to display after Terraform applies the configuration.</li>
+    <li><code>backend.tf</code>: Contains the configuration for handing the tstate file.</li>
+    <li><code>vpc_sub_rt.tf</code>: Contains the configuration VPC, Subnets, Route Tables.</li>
+    <li><code>instances_ep.tf</code>: Contains the configuration Web Server & RDS.</li>
+
   </ul>
 
 </body>
