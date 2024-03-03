@@ -12,7 +12,7 @@
     <li>🌍 Subnets: Creates public and private subnets in different availability zones within the VPC.</li>
     <li>🌐 Internet Gateway: Attaches an Internet Gateway to the VPC for internet access from public subnets.</li>
     <li>🌐 NAT Gateway: Provides outbound internet access for instances in private subnets.</li>
-    <li>🔒 Security Groups: Sets up security groups for EC2 instances and RDS instance to control inbound and outbound traffic.</li>
+    <li>🔒 Security Groups: Sets up security groups for EC2 and RDS to control inbound and outbound traffic.</li>
     <li>🛣️ Route Tables: Defines route tables for public and private subnets with appropriate routes.</li>
     <li>💻 EC2 Instance: Launches an EC2 instance in the private subnet with SSH access.</li>
     <li>🐬 RDS Instance: Deploys a MySQL RDS instance in the private subnet with specified configurations.</li>
