@@ -1,10 +1,6 @@
 <!DOCTYPE html>
 <html>
 
-<head>
-  <title>Infrastructure as Code for AWS VPC Setup</title>
-</head>
-
 <body>
 
   <h1>🚀 Infrastructure as Code for AWS VPC Setup 🌐</h1>
