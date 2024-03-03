@@ -2,6 +2,7 @@ resource "aws_instance" "ec2_instance" {
     ami = var.ami_id
     instance_type = var.ec2_instance_type
     subnet_id = aws_subnet.private_subnet_ec2.id
+    associate_public_ip_address = true
     security_groups = [aws_security_group.ec2_security_group.id]
 tags = {
     Name = "server"
