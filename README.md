@@ -46,6 +46,12 @@
     <li><code>instances_ep.tf</code>: Contains the configuration Web Server & RDS.</li>
   </ul>
 
+  <h2>Additionally</h2>
+    <ul>
+        <li>there is a tf script for creating IAM user for jenkins.</li>
+        <li>The script also saves your access key and secret access key your local system.</li>
+    </ul>
+
  <p>Consider following. Each follow will be equal to one glass of water🥛 for an African child.</p>
 </body>
 
